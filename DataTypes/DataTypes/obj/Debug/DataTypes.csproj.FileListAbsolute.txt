@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

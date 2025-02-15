@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\bin\Debug\ElectricityBillCalculator.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\bin\Debug\ElectricityBillCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\bin\Debug\ElectricityBillCalculator.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\obj\Debug\ElectricityBillCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\obj\Debug\ElectricityBillCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\obj\Debug\ElectricityBillCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ElectricityBillCalculator\ElectricityBillCalculator\obj\Debug\ElectricityBillCalculator.pdb

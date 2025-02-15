@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb
