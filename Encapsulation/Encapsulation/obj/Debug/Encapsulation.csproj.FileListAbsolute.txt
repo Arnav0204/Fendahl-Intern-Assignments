@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
