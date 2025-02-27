@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\bin\Debug\ProductCategory.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\bin\Debug\ProductCategory.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\bin\Debug\ProductCategory.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\obj\Debug\ProductCategory.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\obj\Debug\ProductCategory.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\obj\Debug\ProductCategory.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\ProductCategory\ProductCategory\obj\Debug\ProductCategory.pdb

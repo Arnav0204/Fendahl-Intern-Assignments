@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.pdb

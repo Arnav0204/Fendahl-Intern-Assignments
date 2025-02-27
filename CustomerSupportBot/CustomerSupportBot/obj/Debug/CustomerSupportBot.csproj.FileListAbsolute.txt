@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\bin\Debug\CustomerSupportBot.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\bin\Debug\CustomerSupportBot.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\bin\Debug\CustomerSupportBot.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\obj\Debug\CustomerSupportBot.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\obj\Debug\CustomerSupportBot.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\obj\Debug\CustomerSupportBot.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CustomerSupportBot\CustomerSupportBot\obj\Debug\CustomerSupportBot.pdb

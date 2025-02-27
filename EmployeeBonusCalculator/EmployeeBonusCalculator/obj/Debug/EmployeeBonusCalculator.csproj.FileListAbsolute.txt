@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\bin\Debug\EmployeeBonusCalculator.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\bin\Debug\EmployeeBonusCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\bin\Debug\EmployeeBonusCalculator.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\obj\Debug\EmployeeBonusCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\obj\Debug\EmployeeBonusCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\obj\Debug\EmployeeBonusCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeeBonusCalculator\EmployeeBonusCalculator\obj\Debug\EmployeeBonusCalculator.pdb

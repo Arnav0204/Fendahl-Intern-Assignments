@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\InheritanceAndInterface.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\InheritanceAndInterface.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\InheritanceAndInterface.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\InheritanceAndInterface.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\InheritanceAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\InheritanceAndInterface.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\InheritanceAndInterface.pdb

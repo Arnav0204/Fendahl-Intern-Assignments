@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\EmployeeBonusCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E2F07D-0E33-48F9-AFDD-38E424AD3D44}|EmployeeBonusCalculator\\EmployeeBonusCalculator.csproj|c:\\users\\hp\\desktop\\fendahl internship\\employeebonuscalculator\\employeebonuscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E2F07D-0E33-48F9-AFDD-38E424AD3D44}|EmployeeBonusCalculator\\EmployeeBonusCalculator.csproj|solutionrelative:employeebonuscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\EmployeeBonusCalculator\\EmployeeBonusCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeBonusCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\EmployeeBonusCalculator\\EmployeeBonusCalculator\\Program.cs",
+              "RelativeToolTip": "EmployeeBonusCalculator\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:18:04.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

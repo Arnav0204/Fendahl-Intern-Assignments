@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\bin\Debug\SmartHomeControlSystem.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\bin\Debug\SmartHomeControlSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\bin\Debug\SmartHomeControlSystem.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\obj\Debug\SmartHomeControlSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\obj\Debug\SmartHomeControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\obj\Debug\SmartHomeControlSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\SmartHomeControlSystem\SmartHomeControlSystem\obj\Debug\SmartHomeControlSystem.pdb

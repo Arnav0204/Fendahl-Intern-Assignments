@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\bin\Debug\RideFareCalculator.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\bin\Debug\RideFareCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\bin\Debug\RideFareCalculator.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\obj\Debug\RideFareCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\obj\Debug\RideFareCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\obj\Debug\RideFareCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RideFareCalculator\RideFareCalculator\obj\Debug\RideFareCalculator.pdb

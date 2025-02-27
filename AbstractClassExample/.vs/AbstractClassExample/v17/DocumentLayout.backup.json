@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\AbstractClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D7BA19-A8C3-469E-ABDF-B9EF12F34F01}|AbstractClassExample\\AbstractClassExample.csproj|c:\\users\\hp\\desktop\\fendahl internship\\abstractclassexample\\abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D7BA19-A8C3-469E-ABDF-B9EF12F34F01}|AbstractClassExample\\AbstractClassExample.csproj|solutionrelative:abstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassExample\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\AbstractClassExample\\AbstractClassExample\\Program.cs",
+              "RelativeToolTip": "AbstractClassExample\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:56:33.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

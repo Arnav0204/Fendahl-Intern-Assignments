@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\bin\Debug\CompositionAndInheritance.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\bin\Debug\CompositionAndInheritance.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\bin\Debug\CompositionAndInheritance.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\obj\Debug\CompositionAndInheritance.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\obj\Debug\CompositionAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\obj\Debug\CompositionAndInheritance.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CompositionAndInheritance\CompositionAndInheritance\obj\Debug\CompositionAndInheritance.pdb

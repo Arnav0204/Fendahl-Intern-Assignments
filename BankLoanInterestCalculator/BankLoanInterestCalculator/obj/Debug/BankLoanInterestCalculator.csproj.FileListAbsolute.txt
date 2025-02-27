@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\bin\Debug\BankLoanInterestCalculator.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\bin\Debug\BankLoanInterestCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\bin\Debug\BankLoanInterestCalculator.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\obj\Debug\BankLoanInterestCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\obj\Debug\BankLoanInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\obj\Debug\BankLoanInterestCalculator.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\BankLoanInterestCalculator\BankLoanInterestCalculator\obj\Debug\BankLoanInterestCalculator.pdb
