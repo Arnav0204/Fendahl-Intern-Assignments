@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\bin\Debug\StudentEntryExample.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\bin\Debug\StudentEntryExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\bin\Debug\StudentEntryExample.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\obj\Debug\StudentEntryExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\obj\Debug\StudentEntryExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\obj\Debug\StudentEntryExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\StudentEntryExample\StudentEntryExample\obj\Debug\StudentEntryExample.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\ExplicitInterfaceImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{946D2210-D80C-43C2-A131-87008B9C9E5F}|ExplicitInterfaceImplementation\\ExplicitInterfaceImplementation.csproj|c:\\users\\hp\\desktop\\fendahl internship\\explicitinterfaceimplementation\\explicitinterfaceimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946D2210-D80C-43C2-A131-87008B9C9E5F}|ExplicitInterfaceImplementation\\ExplicitInterfaceImplementation.csproj|solutionrelative:explicitinterfaceimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\ExplicitInterfaceImplementation\\ExplicitInterfaceImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "ExplicitInterfaceImplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\ExplicitInterfaceImplementation\\ExplicitInterfaceImplementation\\Program.cs",
+              "RelativeToolTip": "ExplicitInterfaceImplementation\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:03:00.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

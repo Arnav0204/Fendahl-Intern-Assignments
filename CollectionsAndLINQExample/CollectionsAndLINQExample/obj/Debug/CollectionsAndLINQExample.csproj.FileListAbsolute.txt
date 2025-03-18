@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\bin\Debug\CollectionsAndLINQExample.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\bin\Debug\CollectionsAndLINQExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\bin\Debug\CollectionsAndLINQExample.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\obj\Debug\CollectionsAndLINQExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\obj\Debug\CollectionsAndLINQExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\obj\Debug\CollectionsAndLINQExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\CollectionsAndLINQExample\CollectionsAndLINQExample\obj\Debug\CollectionsAndLINQExample.pdb

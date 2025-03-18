@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\bin\Debug\GenericsExample.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\obj\Debug\GenericsExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\obj\Debug\GenericsExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\obj\Debug\GenericsExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\GenericsExample\GenericsExample\obj\Debug\GenericsExample.pdb

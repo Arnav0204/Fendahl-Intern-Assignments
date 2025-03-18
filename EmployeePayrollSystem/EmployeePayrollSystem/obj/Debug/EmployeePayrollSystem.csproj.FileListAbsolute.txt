@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.pdb

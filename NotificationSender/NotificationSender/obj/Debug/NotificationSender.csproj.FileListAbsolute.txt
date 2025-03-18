@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\bin\Debug\NotificationSender.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\bin\Debug\NotificationSender.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\bin\Debug\NotificationSender.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\obj\Debug\NotificationSender.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\obj\Debug\NotificationSender.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\obj\Debug\NotificationSender.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\NotificationSender\NotificationSender\obj\Debug\NotificationSender.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\bin\Debug\IOTDeviceCommunicationSystem.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\bin\Debug\IOTDeviceCommunicationSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\bin\Debug\IOTDeviceCommunicationSystem.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\obj\Debug\IOTDeviceCommunicationSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\obj\Debug\IOTDeviceCommunicationSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\obj\Debug\IOTDeviceCommunicationSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\IOTDeviceCommunicationSystem\IOTDeviceCommunicationSystem\obj\Debug\IOTDeviceCommunicationSystem.pdb

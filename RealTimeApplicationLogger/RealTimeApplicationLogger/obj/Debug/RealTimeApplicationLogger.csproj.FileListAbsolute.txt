@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\bin\Debug\RealTimeApplicationLogger.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\bin\Debug\RealTimeApplicationLogger.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\bin\Debug\RealTimeApplicationLogger.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\obj\Debug\RealTimeApplicationLogger.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\obj\Debug\RealTimeApplicationLogger.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\obj\Debug\RealTimeApplicationLogger.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\RealTimeApplicationLogger\RealTimeApplicationLogger\obj\Debug\RealTimeApplicationLogger.pdb

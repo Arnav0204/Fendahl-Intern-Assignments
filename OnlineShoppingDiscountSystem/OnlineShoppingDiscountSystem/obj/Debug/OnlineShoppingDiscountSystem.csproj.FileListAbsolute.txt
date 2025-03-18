@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\bin\Debug\OnlineShoppingDiscountSystem.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\bin\Debug\OnlineShoppingDiscountSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\bin\Debug\OnlineShoppingDiscountSystem.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\OnlineShoppingDiscountSystem\OnlineShoppingDiscountSystem\obj\Debug\OnlineShoppingDiscountSystem.pdb

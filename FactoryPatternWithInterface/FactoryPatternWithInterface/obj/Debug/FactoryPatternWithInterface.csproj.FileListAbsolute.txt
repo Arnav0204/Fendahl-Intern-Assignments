@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\bin\Debug\FactoryPatternWithInterface.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\bin\Debug\FactoryPatternWithInterface.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\bin\Debug\FactoryPatternWithInterface.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\obj\Debug\FactoryPatternWithInterface.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\obj\Debug\FactoryPatternWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\obj\Debug\FactoryPatternWithInterface.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\FactoryPatternWithInterface\FactoryPatternWithInterface\obj\Debug\FactoryPatternWithInterface.pdb

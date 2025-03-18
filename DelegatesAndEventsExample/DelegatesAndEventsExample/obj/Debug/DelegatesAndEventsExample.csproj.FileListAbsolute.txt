@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\obj\Debug\DelegatesAndEventsExample.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\obj\Debug\DelegatesAndEventsExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\bin\Debug\DelegatesAndEventsExample.exe.config
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\bin\Debug\DelegatesAndEventsExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\bin\Debug\DelegatesAndEventsExample.pdb
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\obj\Debug\DelegatesAndEventsExample.exe
+C:\Users\HP\Desktop\FENDAHL INTERNSHIP\DelegatesAndEventsExample\DelegatesAndEventsExample\obj\Debug\DelegatesAndEventsExample.pdb

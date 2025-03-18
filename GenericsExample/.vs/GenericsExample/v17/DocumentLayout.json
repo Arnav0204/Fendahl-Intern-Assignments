@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\GenericsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22711218-0197-4C6C-AC2A-93D9DF25FD1D}|GenericsExample\\GenericsExample.csproj|c:\\users\\hp\\desktop\\fendahl internship\\genericsexample\\genericsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22711218-0197-4C6C-AC2A-93D9DF25FD1D}|GenericsExample\\GenericsExample.csproj|solutionrelative:genericsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\GenericsExample\\GenericsExample\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsExample\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FENDAHL INTERNSHIP\\GenericsExample\\GenericsExample\\Program.cs",
+              "RelativeToolTip": "GenericsExample\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:51:30.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
